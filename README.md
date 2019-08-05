@@ -2,7 +2,7 @@
 
 Benchmark suite containing cache filtered traces for use with [Ramulator](https://github.com/CMU-SAFARI/ramulator/).
 
-Note that this is a partial release of the benchmarks, and that more benchmarks will be added in the next month.
+Note that this is a partial release of the benchmarks, and that more benchmarks will be added by the end of August 2019.
 
 *Current version: 0.1.0 (released June 27, 2019)*
 
